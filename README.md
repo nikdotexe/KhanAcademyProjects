@@ -1,7 +1,7 @@
 # Welcome to my Khan Academy Projects: HTML & CSS EDITION
 
 <h2>Project Gallery</h2>
-#Recipe Book
+<h3>Recipe Book</h3>
 ![Recipe1](https://github.com/nikdotexe/KhanAcademyProjects/blob/HTML-and-CSS/RecipeBoi.PNG)
 ![Recipe2](https://github.com/nikdotexe/KhanAcademyProjects/blob/HTML-and-CSS/RecipeBoi2.PNG)
 ![Recipe3](https://github.com/nikdotexe/KhanAcademyProjects/blob/HTML-and-CSS/RecipeBoi3.PNG)
